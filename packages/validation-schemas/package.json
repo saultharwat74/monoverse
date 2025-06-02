@@ -1,0 +1,11 @@
+{
+  "name": "@monoverse/validation-schemas",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "zod": "^3.25.48"
+  }
+}
